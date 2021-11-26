@@ -5,7 +5,5 @@ At the moment there is a person doing the inspection, The AIM of the project is 
 
 #### Project implemented in ipynb notebook
 
-- DataSet link
-'''
-  https://drive.google.com/file/d/1osrQxs9UbuSV30vUmIker7H3Fu7DH1FX/view?usp=sharing
-'''
+
+
